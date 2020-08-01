@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Puppeteer-workspace"
+		},
+		{
+			"path": "../../python-hajimete"
+		}
+	],
+	"settings": {
+		"sshfs.configs": [
+			{
+				"host": "13.73.24.185",
+				"label": "for_marketing",
+				"name": "tomoya_test_server",
+				"password": true,
+				"port": 22,
+				"username": "$USERNAME"
+			}
+		]
+	}
+}
